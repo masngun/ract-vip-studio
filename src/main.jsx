@@ -9,7 +9,7 @@ import ErrorPage from "./Pages/404.jsx";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <div>Welcome To MRE Apps</div>,
     errorElement: <ErrorPage />,
   },
 
